@@ -1,0 +1,10 @@
+C:\Users\btk02\source\repos\minisqlderleyivi\minisqlderleyivi\bin\Debug\minisqlderleyivi.exe.config
+C:\Users\btk02\source\repos\minisqlderleyivi\minisqlderleyivi\bin\Debug\minisqlderleyivi.exe
+C:\Users\btk02\source\repos\minisqlderleyivi\minisqlderleyivi\bin\Debug\minisqlderleyivi.pdb
+C:\Users\btk02\source\repos\minisqlderleyivi\minisqlderleyivi\obj\Debug\minisqlderleyivi.csproj.AssemblyReference.cache
+C:\Users\btk02\source\repos\minisqlderleyivi\minisqlderleyivi\obj\Debug\minisqlderleyivi.Form1.resources
+C:\Users\btk02\source\repos\minisqlderleyivi\minisqlderleyivi\obj\Debug\minisqlderleyivi.Properties.Resources.resources
+C:\Users\btk02\source\repos\minisqlderleyivi\minisqlderleyivi\obj\Debug\minisqlderleyivi.csproj.GenerateResource.cache
+C:\Users\btk02\source\repos\minisqlderleyivi\minisqlderleyivi\obj\Debug\minisqlderleyivi.csproj.CoreCompileInputs.cache
+C:\Users\btk02\source\repos\minisqlderleyivi\minisqlderleyivi\obj\Debug\minisqlderleyivi.exe
+C:\Users\btk02\source\repos\minisqlderleyivi\minisqlderleyivi\obj\Debug\minisqlderleyivi.pdb
